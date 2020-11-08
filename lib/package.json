@@ -1,0 +1,11 @@
+{
+  "name": "gulp-task-modulizer",
+  "version": "1.0.0",
+  "description": "Split your gulp tasks into multiple modules!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ikor Jefocur",
+  "license": "ISC"
+}
